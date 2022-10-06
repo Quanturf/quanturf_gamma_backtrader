@@ -1,0 +1,543 @@
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: '/Users/zacharycoriarty/Desktop/omega_ui/TestData.csv'
+DEBUG - start
+DEBUG - start
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+ERROR - Error in starting a backtest: the JSON object must be str, bytes or bytearray, not int
+DEBUG - start
+ERROR - Error in starting a backtest: the JSON object must be str, bytes or bytearray, not int
+DEBUG - start
+ERROR - Error in starting a backtest: [Errno 2] No such file or directory: 'D:\\Python\\OmegaUI\\omega_ui\\AAPL.csv'
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+INFO - 2000-01-04 - Buy @ 3.2677
+DEBUG - 2000-01-05 - Close price: 3.316
+DEBUG - 2000-01-06 - Close price: 3.0292
+DEBUG - 2000-01-07 - Close price: 3.1733
+DEBUG - 2000-01-10 - Close price: 3.1174
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+INFO - 2000-01-04 - Buy @ 3.2677
+DEBUG - 2000-01-05 - Close price: 3.316
+DEBUG - 2000-01-06 - Close price: 3.0292
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+INFO - 2000-01-04 - Buy @ 3.2677
+DEBUG - 2000-01-05 - Close price: 3.316
+DEBUG - 2000-01-06 - Close price: 3.0292
+DEBUG - 2000-01-07 - Close price: 3.1733
+DEBUG - 2000-01-10 - Close price: 3.1174
+DEBUG - 2000-01-11 - Close price: 2.9576
+INFO - 2000-01-11 - Buy @ 2.9576
+DEBUG - 2000-01-12 - Close price: 2.7805
+INFO - 2000-01-12 - Buy @ 2.7805
+DEBUG - 2000-01-13 - Close price: 3.0851
+DEBUG - 2000-01-14 - Close price: 3.2024
+INFO - 2000-01-14 - Sell @ 3.2024
+DEBUG - 2000-01-18 - Close price: 3.3134
+INFO - 2000-01-18 - Sell @ 3.3134
+DEBUG - 2000-01-19 - Close price: 3.3977
+INFO - 2000-01-19 - Sell @ 3.3977
+DEBUG - 2000-01-20 - Close price: 3.6195
+INFO - 2000-01-20 - Sell @ 3.6195
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+INFO - 2000-01-04 - Buy @ 3.2677
+DEBUG - 2000-01-05 - Close price: 3.316
+DEBUG - 2000-01-06 - Close price: 3.0292
+DEBUG - 2000-01-07 - Close price: 3.1733
+DEBUG - start
+ERROR - Error in starting a backtest: Backtest.__init__() takes 1 positional argument but 2 were given
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:21] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:25] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:29] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:33] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:37] "POST /_dash-update-component HTTP/1.1" 200 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:37] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 204 -
+INFO - 127.0.0.1 - - [27/Sep/2022 23:09:37] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG - start
+DEBUG - start
+DEBUG - start
+ERROR - Error in starting a backtest: pop expected at most 1 argument, got 2
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+ERROR - Error in starting a backtest: Backtest.__init__() takes 1 positional argument but 2 were given
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - done
+DEBUG - start
+DEBUG - done
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+DEBUG - start
+INFO - 2018-05-03 - Strategy Initialized!
+INFO - 2018-05-03 - Param1: 10 - Param2: 20
+DEBUG - 2000-01-03 - Close price: 3.5687
+DEBUG - 2000-01-04 - Close price: 3.2677
+INFO - 2000-01-04 - Buy @ 3.2677
+DEBUG - 2000-01-05 - Close price: 3.316
+DEBUG - 2000-01-06 - Close price: 3.0292
+DEBUG - 2000-01-07 - Close price: 3.1733
+DEBUG - 2000-01-10 - Close price: 3.1174
+DEBUG - 2000-01-11 - Close price: 2.9576
+INFO - 2000-01-11 - Buy @ 2.9576
+DEBUG - 2000-01-12 - Close price: 2.7805
+INFO - 2000-01-12 - Buy @ 2.7805
+DEBUG - 2000-01-13 - Close price: 3.0851
+DEBUG - 2000-01-14 - Close price: 3.2024
+INFO - 2000-01-14 - Sell @ 3.2024
+DEBUG - 2000-01-18 - Close price: 3.3134
+INFO - 2000-01-18 - Sell @ 3.3134
+DEBUG - 2000-01-19 - Close price: 3.3977
+INFO - 2000-01-19 - Sell @ 3.3977
+DEBUG - 2000-01-20 - Close price: 3.6195
+INFO - 2000-01-20 - Sell @ 3.6195
+DEBUG - 2000-01-21 - Close price: 3.5496
+DEBUG - 2000-01-24 - Close price: 3.3876
+INFO - 2000-01-24 - Buy @ 3.3876
+DEBUG - 2000-01-25 - Close price: 3.5787
+DEBUG - 2000-01-26 - Close price: 3.5137
+DEBUG - 2000-01-27 - Close price: 3.5075
+INFO - 2000-01-27 - Buy @ 3.5075
+DEBUG - 2000-01-28 - Close price: 3.2409
+INFO - 2000-01-28 - Buy @ 3.2409
+DEBUG - 2000-01-31 - Close price: 3.3085
+DEBUG - 2000-02-01 - Close price: 3.1964
+DEBUG - 2000-02-02 - Close price: 3.1502
+INFO - 2000-02-02 - Buy @ 3.1502
+DEBUG - 2000-02-03 - Close price: 3.2944
+DEBUG - 2000-02-04 - Close price: 3.4438
+INFO - 2000-02-04 - Sell @ 3.4438
+DEBUG - 2000-02-07 - Close price: 3.6376
+INFO - 2000-02-07 - Sell @ 3.6376
+DEBUG - 2000-02-08 - Close price: 3.6631
+INFO - 2000-02-08 - Sell @ 3.6631
+DEBUG - 2000-02-09 - Close price: 3.5917
+DEBUG - 2000-02-10 - Close price: 3.6195
+DEBUG - 2000-02-11 - Close price: 3.4678
+DEBUG - 2000-02-14 - Close price: 3.6922
+DEBUG - 2000-02-15 - Close price: 3.7942
+INFO - 2000-02-15 - Sell @ 3.7942
+DEBUG - 2000-02-16 - Close price: 3.6389
+DEBUG - 2000-02-17 - Close price: 3.6631
+DEBUG - 2000-02-18 - Close price: 3.547
+DEBUG - 2000-02-22 - Close price: 3.6285
+DEBUG - 2000-02-23 - Close price: 3.7063
+INFO - 2000-02-23 - Sell @ 3.7063
+DEBUG - 2000-02-24 - Close price: 3.6731
+DEBUG - 2000-02-25 - Close price: 3.519
+INFO - 2000-02-25 - Buy @ 3.519
+DEBUG - 2000-02-28 - Close price: 3.6107
+DEBUG - 2000-02-29 - Close price: 3.6554
+INFO - 2000-02-29 - Sell @ 3.6554
+DEBUG - 2000-03-01 - Close price: 4.1552
+INFO - 2000-03-01 - Sell @ 4.1552
+DEBUG - 2000-03-02 - Close price: 3.8901
+DEBUG - 2000-03-03 - Close price: 4.0814
+DEBUG - 2000-03-06 - Close price: 4.0074
+DEBUG - 2000-03-07 - Close price: 3.918
+INFO - 2000-03-07 - Buy @ 3.918
+DEBUG - 2000-03-08 - Close price: 3.8901
+INFO - 2000-03-08 - Buy @ 3.8901
+DEBUG - 2000-03-09 - Close price: 3.8976
+DEBUG - 2000-03-10 - Close price: 4.01
+INFO - 2000-03-10 - Sell @ 4.01
+DEBUG - 2000-03-13 - Close price: 3.8682
+DEBUG - 2000-03-14 - Close price: 3.6427
+INFO - 2000-03-14 - Buy @ 3.6427
+DEBUG - 2000-03-15 - Close price: 3.7063
+DEBUG - 2000-03-16 - Close price: 3.8762
+INFO - 2000-03-16 - Sell @ 3.8762
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+INFO - 2018-12-31 - Strategy Initialized!
+INFO - 2018-12-31 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - 2018-01-10 - Close price: 22.31999969482422
+DEBUG - 2018-01-11 - Close price: 22.530000686645508
+INFO - 2018-01-11 - Sell @ 22.530000686645508
+DEBUG - 2018-01-12 - Close price: 22.4146671295166
+DEBUG - 2018-01-16 - Close price: 22.67066764831543
+DEBUG - 2018-01-17 - Close price: 23.143999099731445
+INFO - 2018-01-17 - Sell @ 23.143999099731445
+DEBUG - 2018-01-18 - Close price: 22.971332550048828
+DEBUG - 2018-01-19 - Close price: 23.334667205810547
+DEBUG - 2018-01-22 - Close price: 23.437332153320312
+INFO - 2018-01-22 - Sell @ 23.437332153320312
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1546318800&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+INFO - 2018-12-31 - Strategy Initialized!
+INFO - 2018-12-31 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - 2018-01-10 - Close price: 22.31999969482422
+DEBUG - 2018-01-11 - Close price: 22.530000686645508
+INFO - 2018-01-11 - Sell @ 22.530000686645508
+DEBUG - 2018-01-12 - Close price: 22.4146671295166
+DEBUG - 2018-01-16 - Close price: 22.67066764831543
+DEBUG - 2018-01-17 - Close price: 23.143999099731445
+INFO - 2018-01-17 - Sell @ 23.143999099731445
+DEBUG - 2018-01-18 - Close price: 22.971332550048828
+DEBUG - 2018-01-19 - Close price: 23.334667205810547
+DEBUG - 2018-01-22 - Close price: 23.437332153320312
+INFO - 2018-01-22 - Sell @ 23.437332153320312
+DEBUG - 2018-01-23 - Close price: 23.519332885742188
+INFO - 2018-01-23 - Sell @ 23.519332885742188
+DEBUG - 2018-01-24 - Close price: 23.05933380126953
+DEBUG - 2018-01-25 - Close price: 22.50933265686035
+INFO - 2018-01-25 - Buy @ 22.50933265686035
+DEBUG - 2018-01-26 - Close price: 22.856666564941406
+DEBUG - 2018-01-29 - Close price: 23.302000045776367
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1517461200&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1290
+INFO - 2018-01-31 - Strategy Initialized!
+INFO - 2018-01-31 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - 2018-01-10 - Close price: 22.31999969482422
+DEBUG - 2018-01-11 - Close price: 22.530000686645508
+INFO - 2018-01-11 - Sell @ 22.530000686645508
+DEBUG - 2018-01-12 - Close price: 22.4146671295166
+DEBUG - 2018-01-16 - Close price: 22.67066764831543
+DEBUG - 2018-01-17 - Close price: 23.143999099731445
+INFO - 2018-01-17 - Sell @ 23.143999099731445
+DEBUG - 2018-01-18 - Close price: 22.971332550048828
+DEBUG - 2018-01-19 - Close price: 23.334667205810547
+DEBUG - 2018-01-22 - Close price: 23.437332153320312
+INFO - 2018-01-22 - Sell @ 23.437332153320312
+DEBUG - 2018-01-23 - Close price: 23.519332885742188
+INFO - 2018-01-23 - Sell @ 23.519332885742188
+DEBUG - 2018-01-24 - Close price: 23.05933380126953
+DEBUG - 2018-01-25 - Close price: 22.50933265686035
+INFO - 2018-01-25 - Buy @ 22.50933265686035
+DEBUG - 2018-01-26 - Close price: 22.856666564941406
+DEBUG - 2018-01-29 - Close price: 23.302000045776367
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1510
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1512
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1512
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done
+DEBUG - start
+DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1514782800&period2=1515560400&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 1511
+INFO - 2018-01-09 - Strategy Initialized!
+INFO - 2018-01-09 - Param1: 10 - Param2: 20
+DEBUG - 2018-01-02 - Close price: 21.368667602539062
+INFO - 2018-01-02 - Buy @ 21.368667602539062
+DEBUG - 2018-01-03 - Close price: 21.149999618530273
+INFO - 2018-01-03 - Buy @ 21.149999618530273
+DEBUG - 2018-01-04 - Close price: 20.974666595458984
+INFO - 2018-01-04 - Buy @ 20.974666595458984
+DEBUG - 2018-01-05 - Close price: 21.10533332824707
+DEBUG - 2018-01-08 - Close price: 22.42733383178711
+INFO - 2018-01-08 - Sell @ 22.42733383178711
+DEBUG - 2018-01-09 - Close price: 22.246000289916992
+DEBUG - done

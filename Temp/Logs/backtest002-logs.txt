@@ -1,0 +1,2 @@
+DEBUG - start
+ERROR - Error in starting a backtest: No module named 'tests.test_backtest'

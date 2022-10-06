@@ -1,0 +1,11 @@
+default:
+  module: quanturf_backtrader.test_backtest
+  redis: 127.0.0.1
+  class: ExampleBacktest
+  
+logging:
+  root: 'Temp/Logs'
+
+backtest:
+  cash: 100000.0
+  modules: quanturf_backtrader.test_backtest
